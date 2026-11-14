@@ -39,3 +39,8 @@ Initial Week 1 research and documentation preparation.
 ### Status
 Week 1 – Typography design in progress.
 
+- Reviewed the Data Hierarchy Research document.
+- Checked the financial typography design.
+- Verified numerical readability test samples.
+- Organized Week 1 deliverables for project submission.
+- Updated project documentation.
