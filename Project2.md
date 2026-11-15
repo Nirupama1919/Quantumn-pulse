@@ -36,7 +36,7 @@ Initial Week 1 research and documentation preparation.
 - Complete the typography system.
 - Start the financial dashboard wireframe.
 
-## Status
+### Status
 Week 1 – Typography design in progress.
 
 - Reviewed the Data Hierarchy Research document.
