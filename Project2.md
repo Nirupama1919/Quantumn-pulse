@@ -44,3 +44,26 @@ Week 1 – Typography design in progress.
 - Verified numerical readability test samples.
 - Organized Week 1 deliverables for project submission.
 - Updated project documentation.
+
+  # Week 1 – Project Progress Update
+
+## Project: Enterprise Financial Dashboard UI/UX
+
+### 1. HCI Research & Architecture
+- Studied financial dashboard data hierarchy.
+- Organized financial information into three levels.
+- Identified important KPIs such as revenue, expenses, and net profit.
+- Documented user requirements and UX recommendations.
+
+### 2. UI Design & Typography System
+- Created a financial dashboard typography layout in Figma.
+- Used numerical typography for financial values.
+- Designed text hierarchy for headings, labels, and data.
+- Included numerical readability comparison tests.
+
+### 3. Deliverables
+- Week1_Data_Hierarchy_Research.docx
+- Week 1 – Typography System.png
+
+### 4. Conclusion
+Completed the Week 1 research documentation and typography design deliverables for the Enterprise Financial Dashboard.
