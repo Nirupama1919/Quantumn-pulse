@@ -61,9 +61,9 @@ Week 1 – Typography design in progress.
 - Designed text hierarchy for headings, labels, and data.
 - Included numerical readability comparison tests.
 
-### 3. Deliverables
-- Week1_Data_Hierarchy_Research.docx
-- Week 1 – Typography System.png
+### Week 1 Deliverables
+Week1_Data_Hierarchy_Research.docx
+Week 1 – Typography System.png
 
 ### 4. Conclusion
 Completed the Week 1 research documentation and typography design deliverables for the Enterprise Financial Dashboard.
