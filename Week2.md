@@ -82,6 +82,8 @@ Next Steps
 - Practised creating KPI cards in Figma.
 - Explored the use of Auto Layout for flexible interface design.
 
+  Completed Week 2 Figma dashboard layout, including KPI cards, recent transactions table, monthly revenue chart, dashboard filters, and reusable components with Auto Layout.
+
 Conclusion
 
 During Week 2, I focused on Progressive Disclosure research and Component Architecture. I also started the practical Figma design by creating three KPI cards for the Enterprise Financial Dashboard. The next step is to continue developing the remaining dashboard components.
